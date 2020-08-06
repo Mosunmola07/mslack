@@ -1,2 +1,5 @@
-# mslack
-Just another repository
+Name:oladipupo mosunmola
+Email:mhosunnmolar@gmail. Com
+Slack :mosunmola
+Biostack: cheminformatics
+Language: python
