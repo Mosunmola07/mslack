@@ -1,5 +1,5 @@
 Name:oladipupo mosunmola
-Email:mhosunnmolar@gmail. Com
+Mhosunnmolar@gmail.Com
 Slack :mosunmola
 Biostack: cheminformatics
 Language: python
